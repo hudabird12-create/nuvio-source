@@ -1,0 +1,17 @@
+{
+  "name": "Simple Cinema Pack",
+  "id": "simple.cinema",
+  "plugins": [
+    {
+      "id": "public.cinema",
+      "name": "Public Cinema",
+      "movies": [
+        {
+          "title": "Night of the Living Dead",
+          "stream": "https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4",
+          "poster": "https://archive.org/services/img/night_of_the_living_dead"
+        }
+      ]
+    }
+  ]
+}
