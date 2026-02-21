@@ -1,17 +1,14 @@
 {
-  "name": "Simple Cinema Pack",
-  "id": "simple.cinema",
-  "type": "catalog",
+  "name": "Cinema Pack",
+  "id": "cinema.pack",
   "catalogs": [
     {
-      "name": "Public Cinema",
+      "name": "Public Movies",
       "items": [
         {
           "title": "Night of the Living Dead",
-          "year": "1968",
           "url": "https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4",
-          "poster": "https://archive.org/services/img/night_of_the_living_dead",
-          "description": "Public domain horror classic"
+          "poster": "https://archive.org/services/img/night_of_the_living_dead"
         }
       ]
     }
